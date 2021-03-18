@@ -1,0 +1,16 @@
+#headerh1:hover{text-align: center;text-transform: .5sec;}
+body{
+    background-color: brown;
+    color: aquamarine;
+    background-image: url(../2.jpg);
+    background-repeat: no-repeat;
+}
+
+p{
+    font-weight: bold;
+    color: blue;
+}
+
+#p1{color: black;text-shadow: 5px rgb(63, 77, 205);text-decoration: underline;text-decoration: yellow;}
+#p1:hover{color: blue;font-size: large;background-image:url(../2.gif);}
+.p1{color:bisque;text-shadow: .5px 3px rgb(34, 178, 34);border: 3px solid black;}
